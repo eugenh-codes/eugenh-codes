@@ -1,4 +1,4 @@
-Hola, soy Anakarla Eugenh Olivares, una Desarrolladora Full Stack Junior y estudiante de Ingeniería de Sistemas en Lima, Perú. Me dedico a buscar soluciones innovadoras que generen un impacto positivo y puedan superar expectativas.
+Hola, soy Eugenh Olivares, una Desarrolladora Full Stack Junior y estudiante de Ingeniería de Sistemas en Lima, Perú. Me dedico a buscar soluciones innovadoras que generen un impacto positivo y puedan superar expectativas.
 
 A través de mi formación en Web Development y AI en Le Wagon, he adquirido habilidades para enfrentar desafíos tecnológicos con creatividad y eficacia. Me encanta aprender y crecer constantemente en el campo del desarrollo.
 
